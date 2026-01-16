@@ -94,12 +94,6 @@ UIDAI_Aadhaar_Data_Insights/
 │ ├── 04_cross_dataset_analysis.ipynb
 │ └── 05_visualisation.ipynb
 │
-├── src/
-│ ├── merge_utils.py
-│ ├── preprocessing.py
-│ ├── analysis.py
-│ └── visualization.py
-│
 ├── outputs/
 │ ├── figures/
 │ └── tables/
