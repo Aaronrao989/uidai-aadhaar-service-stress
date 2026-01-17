@@ -32,13 +32,6 @@ profile_default/
 .streamlit/
 *.log
 
-# ============================
-# Data & Outputs
-# ============================
-# Raw datasets (do NOT upload large CSVs)
-data/
-raw_data/
-processed_data/
 
 # Model outputs (keep only final CSV if needed)
 outputs/figures/
