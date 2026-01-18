@@ -40,7 +40,6 @@ outputs/tmp/
 # Reports & Downloads
 # ============================
 *.pdf
-*.png
 *.jpg
 *.jpeg
 
