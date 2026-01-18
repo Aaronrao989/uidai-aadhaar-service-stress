@@ -34,7 +34,6 @@ profile_default/
 
 
 # Model outputs (keep only final CSV if needed)
-outputs/figures/
 outputs/tmp/
 
 # ============================
@@ -57,3 +56,6 @@ outputs/tmp/
 # System / Misc
 # ============================
 Thumbs.db
+
+# ============================
+notebooks/08_final_analysis_and_conclusion_visuals.ipynb
