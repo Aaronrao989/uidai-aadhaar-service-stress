@@ -120,7 +120,7 @@ Consolidate multiple CSV files per dataset into unified dataframes using memory-
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd UIDAI_Aadhaar_Data_Insights
+cd uidai-aadhaar-service-stress
 
 # Install dependencies
 pip install -r requirements.txt
